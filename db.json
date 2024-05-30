@@ -6002,6 +6002,40 @@
 			}
 		}
 	],
+	"incidents": [
+		{ "id": 1, "data": { "Activity_1ad9qea_65dc32b5cf9b54546e42fc66": 4 } },
+		{ "id": 2, "data": { "Gateway_0006eqz": 8 } },
+		{ "id": 3, "data": { "Activity_1ufpqp5": 8 } },
+		{ "id": 4, "data": { "Activity_0hlni87": 7 } },
+		{ "id": 5, "data": { "Activity_1rgp2ep": 6 } },
+		{ "id": 6, "data": { "Activity_000am76_626016e0d983f600017a0932": 6 } },
+		{ "id": 7, "data": { "Gateway_1mem8y3": 3 } },
+		{ "id": 8, "data": { "Activity_1cnp37q_65d743b4c9e0d62109e6f845": 6 } },
+		{ "id": 9, "data": { "Activity_0qsx3q0": 6 } },
+		{
+			"id": 10,
+			"data": { "Activity_0h7482b_65dc32b5cf9b54546e42fc66": 10 }
+		},
+		{
+			"id": 11,
+			"data": { "Activity_000am76_626016e0d983f600017a0932": 4 }
+		},
+		{ "id": 12, "data": { "Gateway_13aga4u": 1 } },
+		{ "id": 13, "data": { "Activity_1oz3tew": 1 } },
+		{ "id": 14, "data": { "Activity_0bqqv33": 2 } },
+		{ "id": 15, "data": { "Activity_02ri3a2": 4 } },
+		{ "id": 16, "data": { "Activity_03x2eyc": 1 } },
+		{ "id": 17, "data": { "Activity_03x2eyc": 7 } },
+		{
+			"id": 18,
+			"data": { "Activity_0ealbtf_6238c6993f7d9700014d1cfe": 10 }
+		},
+		{ "id": 19, "data": { "Activity_1arrix6": 3 } },
+		{ "id": 20, "data": { "Gateway_03ls7m2": 2 } },
+		{ "id": 21, "data": { "Activity_1cxnivh": 2 } },
+		{ "id": 22, "data": { "Activity_0pnza3d": 8 } },
+		{ "id": 23, "data": { "Activity_0ryrkio": 6 } }
+	],
 	"process-instances": [
 		{
 			"id": "df5f6ad1-1da0-11ef-a683-bab9215eb30e",
