@@ -5741,6 +5741,267 @@
 			]
 		}
 	],
+	"data": [
+		{
+			"id": 1,
+			"data": {
+				"StartEvent_1": 2.6825031603630194,
+				"Activity_1g89tok": 20.69513119604325,
+				"Activity_1ad9qea_65dc32b5cf9b54546e42fc66": 0.7336753775711516,
+				"Activity_0asca19": 5.827119954908396,
+				"Activity_13n503z": 9.862721710158064,
+				"Activity_1y9s3cn": 7.277111090495027,
+				"Activity_1cwpk5e": 12.609164211849533,
+				"Event_0c02kjf": 14.39668924563762,
+				"Activity_121l2e8_65dc32a9cf9b54546e42fc64": 16.248684872090646,
+				"Activity_0e2yg3h_65dc32a9cf9b54546e42fc64": 9.667199180883296
+			}
+		},
+		{
+			"id": 2,
+			"data": {
+				"StartEvent_1": 16.529887894918467,
+				"Activity_0td7dw0": 5.92100494098909,
+				"Activity_09qy8dd_65dc32b5cf9b54546e42fc66": 0.44888455450804254,
+				"Activity_01iuwdd": 9.00026600316271,
+				"Activity_1ns0hq1": 17.250038385798618,
+				"Activity_0zmw0gu_65dc32a9cf9b54546e42fc64": 3.7523914542694743,
+				"Activity_187am30": 3.730994131778443,
+				"Event_1laeezt": 7.698219253534925,
+				"Gateway_0006eqz": 22.29469453836411,
+				"Activity_0jzqsh6_65dc32a9cf9b54546e42fc64": 13.37361884267611
+			}
+		},
+		{
+			"id": 3,
+			"data": {
+				"Event_18p71xw": 27.88172324051215,
+				"Activity_1ufpqp5": 23.52126075949227,
+				"Gateway_0a7heuy": 0.9567123873690474,
+				"Activity_1cxnivh": 17.84104506525181,
+				"Activity_121z91g_65d8cf6306ac2b26797887ac": 17.978736546131422,
+				"Event_0pbu49s": 11.820522001243297
+			}
+		},
+		{
+			"id": 4,
+			"data": {
+				"StartEvent_1": 30.933226064081744,
+				"Activity_0klv89g_6238c6993f7d9700014d1cfe": 27.997237786554518,
+				"Gateway_1d616bw": 0.7253433868609245,
+				"Activity_0hlni87": 13.113884630126854,
+				"Event_0uf016m": 10.672398669416657,
+				"Activity_086syi0_6238c6993f7d9700014d1cfe": 7.3516682864263965,
+				"Activity_1qivejx": 9.206241176532904
+			}
+		},
+		{
+			"id": 5,
+			"data": {
+				"Event_1co4kz1": 24.043070710324915,
+				"Activity_1rgp2ep": 7.6015958176153156,
+				"Activity_1ils6hd": 15.257758477464678,
+				"Activity_0tpqeuv_6238c6993f7d9700014d1cfe": 27.185669090462405,
+				"Gateway_1oq8e9t": 3.687502890127725,
+				"Event_01j574j": 22.22440301400496
+			}
+		},
+		{
+			"id": 6,
+			"data": {
+				"StartEvent_1": 20.85592700469209,
+				"Activity_000am76_626016e0d983f600017a0932": 37.83319696770921,
+				"Activity_0bqqv33": 21.36974406508664,
+				"Event_0baq15b": 19.941131962512053
+			}
+		},
+		{
+			"id": 7,
+			"data": {
+				"Event_0km8mcd": 43.98197918371503,
+				"Gateway_1mem8y3": 17.975942297694786,
+				"Event_05vqqzf": 38.04207851859018
+			}
+		},
+		{
+			"id": 8,
+			"data": {
+				"StartEvent_1": 17.471857423762295,
+				"Activity_1andsof": 2.784526330666184,
+				"Gateway_13aga4u": 13.169145995612249,
+				"Activity_0qsx3q0": 17.341193381280824,
+				"Activity_10zao66_65dec1d12fab2b5add8f232b": 7.885869310316707,
+				"Activity_1cnp37q_65d743b4c9e0d62109e6f845": 12.72073844966653,
+				"Event_1prweht": 16.452330774343466,
+				"Activity_1awpqhz": 12.174338334351726
+			}
+		},
+		{
+			"id": 9,
+			"data": {
+				"StartEvent_1": 2.7883037318332056,
+				"Activity_1andsof": 9.150248385816347,
+				"Gateway_13aga4u": 12.694910928748184,
+				"Activity_0qsx3q0": 17.162041975984202,
+				"Activity_10zao66_65dec1d12fab2b5add8f232b": 11.531386560391448,
+				"Activity_1cnp37q_65d743b4c9e0d62109e6f845": 17.038891630647505,
+				"Event_1prweht": 15.594468394251365,
+				"Activity_1awpqhz": 14.039748392327752
+			}
+		},
+		{
+			"id": 10,
+			"data": {
+				"StartEvent_1": 20.514509873359746,
+				"Activity_0lbm7f2": 9.361261197177702,
+				"Activity_0h7482b_65dc32b5cf9b54546e42fc66": 8.18017633055736,
+				"Activity_1xag3c3": 22.534330691517198,
+				"Gateway_0ilvriz": 20.742133395536687,
+				"Event_0ajshln": 18.667588511851307
+			}
+		},
+		{
+			"id": 11,
+			"data": {
+				"StartEvent_1": 14.5888412274121,
+				"Activity_000am76_626016e0d983f600017a0932": 29.279653334888593,
+				"Activity_0bqqv33": 26.58259942959325,
+				"Event_0baq15b": 29.54890600810606
+			}
+		},
+		{
+			"id": 12,
+			"data": {
+				"StartEvent_1": 5.546993243611067,
+				"Activity_1andsof": 14.8149116026621,
+				"Gateway_13aga4u": 2.615950036419859,
+				"Activity_0qsx3q0": 16.300272612414865,
+				"Activity_10zao66_65dec1d12fab2b5add8f232b": 19.667071567200253,
+				"Activity_1cnp37q_65d743b4c9e0d62109e6f845": 12.80772970282838,
+				"Event_1prweht": 11.280119193637434,
+				"Activity_1awpqhz": 16.966952041226023
+			}
+		},
+		{
+			"id": 13,
+			"data": {
+				"StartEvent_1": 17.75504068480323,
+				"Gateway_0mz12cy": 23.000292230541998,
+				"Event_0p1d8xg": 20.68495901378798,
+				"Activity_1oz3tew": 17.295662492001565,
+				"Activity_0ealbtf_6238c6993f7d9700014d1cfe": 21.264045578865222
+			}
+		},
+		{
+			"id": 14,
+			"data": {
+				"StartEvent_1": 34.442804114988014,
+				"Activity_000am76_626016e0d983f600017a0932": 7.451165538574638,
+				"Activity_0bqqv33": 40.09193921860766,
+				"Event_0baq15b": 18.014091127829687
+			}
+		},
+		{
+			"id": 15,
+			"data": {
+				"StartEvent_1": 58.01557476147834,
+				"Activity_02ri3a2": 4.375050551690139,
+				"Event_0onrfel": 37.60937468683152
+			}
+		},
+		{
+			"id": 16,
+			"data": {
+				"StartEvent_1": 13.719032342976881,
+				"Activity_01nzqyy": 25.975663301261548,
+				"Activity_10w3mse_6603c31ebe698c5feb952910": 23.253966016164505,
+				"Activity_03x2eyc": 2.8334476152295616,
+				"Activity_13bx01p_65dc32a9cf9b54546e42fc64": 25.767899197988886,
+				"Event_0h0vxs3": 8.449991526378616
+			}
+		},
+		{
+			"id": 17,
+			"data": {
+				"StartEvent_1": 17.967075836613407,
+				"Activity_01nzqyy": 23.046362719698024,
+				"Activity_10w3mse_6603c31ebe698c5feb952910": 10.326240583600695,
+				"Activity_03x2eyc": 4.628016562246655,
+				"Activity_13bx01p_65dc32a9cf9b54546e42fc64": 23.507021030491057,
+				"Event_0h0vxs3": 20.52528326735016
+			}
+		},
+		{
+			"id": 18,
+			"data": {
+				"StartEvent_1": 7.474794131204693,
+				"Gateway_0mz12cy": 28.716548408590732,
+				"Event_0p1d8xg": 24.069216735460376,
+				"Activity_1oz3tew": 24.649126149075997,
+				"Activity_0ealbtf_6238c6993f7d9700014d1cfe": 15.090314575668193
+			}
+		},
+		{
+			"id": 19,
+			"data": {
+				"StartEvent_1": 8.831348026591622,
+				"Activity_1arrix6": 79.5090972216372,
+				"Event_1o1wzm1": 11.65955475177117
+			}
+		},
+		{
+			"id": 20,
+			"data": {
+				"StartEvent_1": 3.8344236623770422,
+				"Activity_14xu2rz": 6.0249853255230414,
+				"Gateway_03ls7m2": 27.612029479881745,
+				"Event_0ujfwjf": 29.95359947123474,
+				"Gateway_098jllk": 32.57496206098344
+			}
+		},
+		{
+			"id": 21,
+			"data": {
+				"Event_18p71xw": 9.558258228535834,
+				"Activity_1ufpqp5": 8.794624211966855,
+				"Gateway_0a7heuy": 27.641559195303213,
+				"Activity_1cxnivh": 12.314665787012972,
+				"Activity_121z91g_65d8cf6306ac2b26797887ac": 15.943729782740073,
+				"Event_0pbu49s": 25.747162794441053
+			}
+		},
+		{
+			"id": 22,
+			"data": {
+				"StartEvent_1": 12.933766387476902,
+				"Activity_0pnza3d": 4.9289222122306,
+				"Activity_15i3j2w_65dc32b5cf9b54546e42fc66": 14.33120117701317,
+				"Activity_1y6mdwy": 0.99088590735287,
+				"Activity_085dzco": 11.824515507562802,
+				"Activity_1hyl8yw_65dc32a9cf9b54546e42fc64": 11.773096988796327,
+				"Activity_0n1nhc8": 9.715610491580122,
+				"Event_0mr61yu": 7.082129344323808,
+				"Activity_1av8h6d": 11.06452751882617,
+				"Activity_0e00vth_65dc32a9cf9b54546e42fc64": 9.863438355991509,
+				"Activity_0l797of_65dc32a9cf9b54546e42fc64": 5.4919061088457335
+			}
+		},
+		{
+			"id": 23,
+			"data": {
+				"StartEvent_1": 0.9672256538680042,
+				"Activity_0592q41": 2.6185330206705806,
+				"Activity_1yp3agv_65dc32b5cf9b54546e42fc66": 13.11733877710288,
+				"Activity_0h4b062": 23.622618643875985,
+				"Activity_1nnd530": 6.42603028481714,
+				"Activity_1oi2798_65ddb7142fab2b5add8f22d6": 11.50409192555124,
+				"Activity_0ryrkio": 3.389129211612595,
+				"Event_0n6oklt": 4.28405404600629,
+				"Gateway_1nl8c0j": 21.001885240181686,
+				"Activity_0eh2d3h_65ddb7142fab2b5add8f22d6": 13.069093196313586
+			}
+		}
+	],
 	"process-instances": [
 		{
 			"id": "df5f6ad1-1da0-11ef-a683-bab9215eb30e",
